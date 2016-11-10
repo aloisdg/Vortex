@@ -1,7 +1,9 @@
-﻿{
+{
   "version": "1.0.0-*",
 
   "dependencies": {
+    "AngleSharp": "0.9.9",
+    "NetJSON": "1.2.1.5",
     "NETStandard.Library": "1.6.0"
   },
 
